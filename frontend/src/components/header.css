@@ -1,0 +1,17 @@
+.header{
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+.header .header-right{
+    display: flex;
+    gap: 2rem;
+}
+.header .header-right a{
+    padding: 1rem;
+    color: white;
+}
+.active{
+    background-color: chocolate;
+    font-weight: 600;
+}
